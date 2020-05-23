@@ -5,7 +5,7 @@
 	// Blue - #09A1ED
 
 	"name": "Nanowise",
-	"type": "dark",
+	"type": "light",
 	"colors": {
 
 		// General
@@ -52,7 +52,7 @@
 		"editor.lineHighlightBackground": "#ECECEC",
 
 		// Bracket match
-		// "editorBracketMatch.background": "#E9EAEB",
+		"editorBracketMatch.background": "#E9EAEB",
 		"editorBracketMatch.border": "#00000000",
 		"editor.foldBackground": "#F3F4F5",
 		
@@ -630,7 +630,7 @@
 			"name": "CSS: Important Keyword",
 			"scope": "keyword.other.important",
 			"settings": {
-				"foreground": "#238744",
+				"foreground": "#04D1BC",
 			},
 		},
 		

@@ -1,8 +1,11 @@
 {
     "name": "nanowise",
     "displayName": "nanowise",
+    "publisher": "nanowise",
     "description": "Fluid and punchy color theme.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "icon": "./icons/nanowise-vsc-icon.png",
+    "author": {"name": "Ivan Stevkovski", "email": "istevkovski@outlook.com", "url": "https://www.linkedin.com/in/istevkovski/"},
     "engines": {
         "vscode": "^1.45.0"
     },
