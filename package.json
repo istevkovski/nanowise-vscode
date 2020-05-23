@@ -1,12 +1,12 @@
 {
     "name": "nanowise",
-    "displayName": "nanowise",
+    "displayName": "Nanowise",
     "publisher": "nanowise",
     "description": "Fluid and punchy color theme.",
     "version": "1.2.0",
     "icon": "icons/nanowise-vsc-icon.png",
     "author": {"name": "Ivan Stevkovski", "email": "istevkovski@outlook.com", "url": "https://www.linkedin.com/in/istevkovski/"},
-    "repository": {"url": "https://nanowise@dev.azure.com/nanowise/Nanowise/_git/Nanowise", "type": "git"},
+    "repository": {"url": "git@github.com:istevkovski/nanowise-vscode.git", "type": "git"},
     "engines": {
         "vscode": "^1.45.0"
     },

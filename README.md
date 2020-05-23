@@ -32,10 +32,12 @@
 	<img src="icons/nanowise-banner.png">
 </div>
 
-![Nanowise icon](images/nanowise-less.png)
-![Nanowise icon](images/nanowise-java.png)
-![Nanowise icon](images/nanowise-vscode.png)
-![Nanowise icon](images/nanowise-welcome-folder.png)
+<div align="center">
+	<img src="images/nanowise-less.png">
+	<img src="images/nanowise-java.png">
+	<img src="images/nanowise-vscode.png">
+	<img src="images/nanowise-welcome-folder.png">
+</div>
 
 ## 🎈 Usage <a name="usage"></a>
 
