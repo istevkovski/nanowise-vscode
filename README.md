@@ -6,9 +6,16 @@
 <h2 align="center">Nanowise</h2>
 
 <div align="center">
-
-	Reserved for badges
-
+	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise">
+		<img src="https://vsmarketplacebadge.apphb.com/version/nanowise.nanowise.svg?style=for-the-badge&colorA=FF5789&colorB=FF3D77" /></a>
+	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise">
+		<img src="https://vsmarketplacebadge.apphb.com/rating-star/nanowise.nanowise.svg?style=for-the-badge&colorA=FBBD30&colorB=F2AA08" /></a>
+	<a href="https://marketplace.visualstudio.com/items?itemName=nanowise.nanowise"><img
+			src="https://vsmarketplacebadge.apphb.com/downloads-short/nanowise.nanowise.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&label=DOWNLOADS" /></a>
+	<br> <a href="vscode:extension/nanowise.nanowise"><img
+			src="https://img.shields.io/badge/Made%20with-JSON%20%7B%20...%20%7D-brightgreen.svg?colorA=0CE8D6&colorB=04D1BC&style=for-the-badge" /></a>
+	<a href="https://github.com/istevkovski/nanowise-vscode"><img
+			src="https://img.shields.io/badge/Built%20with-%E2%99%A5-brightgreen.svg?colorA=24B6FF&colorB=09A1ED&style=for-the-badge" /></a>
 </div>
 
 ---
@@ -52,7 +59,6 @@ Install the theme, apply it and enjoy!
 ## ✍️ Authors <a name = "authors"></a>
 
 - [@istevkovski](https://www.linkedin.com/in/istevkovski/) - Creator of Nanowise
-
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
