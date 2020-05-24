@@ -3,10 +3,17 @@
     "displayName": "Nanowise",
     "publisher": "nanowise",
     "description": "Fluid and punchy color theme.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "icon": "icons/nanowise-vsc-icon.png",
-    "author": {"name": "Ivan Stevkovski", "email": "istevkovski@outlook.com", "url": "https://www.linkedin.com/in/istevkovski/"},
-    "repository": {"url": "https://github.com/istevkovski/nanowise-vscode.git", "type": "git"},
+    "author": {
+        "name": "Ivan Stevkovski",
+        "email": "istevkovski@outlook.com",
+        "url": "https://www.linkedin.com/in/istevkovski/"
+    },
+    "repository": {
+        "url": "https://github.com/istevkovski/nanowise-vscode.git",
+        "type": "git"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
