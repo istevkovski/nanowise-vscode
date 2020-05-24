@@ -18,12 +18,10 @@
 			src="https://img.shields.io/badge/Built%20with-%E2%99%A5-brightgreen.svg?colorA=24B6FF&colorB=09A1ED&style=for-the-badge" /></a>
 </div>
 
----
-
-<p align="center">
+<h4 align="center">
 	This is a punchy light theme for your editor. Initially I made this to learn more about creating my own VSCode theme.
     <br>
-</p>
+</h4>
 
 ## 📝 Table of Contents
 
